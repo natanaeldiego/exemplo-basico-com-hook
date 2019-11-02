@@ -61,7 +61,7 @@ The .apk file is located at / O arquivo .apk está localizado em `exemplo-basico
 
 ## Comandos disponíveis  
 
-| npm run ... | Description |
+| npm run ... | Description / Descrição |
 | --- | --- |
 | adb-reverse | Reset port ADB to tcp:8081 / Redefina a porta ADB para tcp: 8081 |
 | ios-dev| Run iOS project / Execute o projeto no iOS |
