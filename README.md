@@ -1,4 +1,4 @@
-## Bad example with hook
+## Basic example with hook
 
 ## Exemplo bádico com hook
 
